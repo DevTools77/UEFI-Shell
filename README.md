@@ -1,4 +1,4 @@
-UEFI-Shell
+UEFI-Installer
 ==========
 
 [![Build status](https://img.shields.io/github/actions/workflow/status/pbatard/UEFI-Shell/linux_gcc_edk2.yml?label=Build%20Status&style=flat-square)](https://github.com/pbatard/UEFI-Shell/actions/workflows/linux_gcc_edk2.yml)
